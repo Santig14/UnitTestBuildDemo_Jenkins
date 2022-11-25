@@ -13,8 +13,9 @@ public class HelloWorldTest {
 		Double actual= hw.interestCalc(10000, 0.1, 1);
 		Double expected= 11000.0;
 		assertEquals(actual, expected);
+		
 				
-	}
+	} 
 	@Test
 	public void testsayHello() {
 		HelloWorld hw= new HelloWorld();

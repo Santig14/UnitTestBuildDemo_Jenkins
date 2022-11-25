@@ -5,6 +5,7 @@ public class HelloWorld {
 		return a;
 	}
 	
+	
 	public double interestCalc(double p, double r, double t ) {
 		return (p*(1+r*t));
 	}

@@ -8,6 +8,7 @@ public class mainClass {
 		System.out.println(hl.sayHello("Sayantan"));
 		System.out.println("Interest after cal: "+hl.interestCalc(10000, 0.1, 1));
 		
+		
 	}
 
 }
